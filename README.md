@@ -1,7 +1,7 @@
 # Greetings App
 A simple interactive Android app built with Java to practice user input and layouts
 
-![Greetings app screenshot](/screenshot.png)
+<img src="/screenshot.png" width="300" alt="Greetings app screenshot" />
 
 ## Features
 - User Interaction - captures name input and delivers a personalized Toast message
